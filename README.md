@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="prove.jpg" alt="Prove-Your-Agent" width="200" />
+<img src="prove.jpg" alt="Prove-Your-Agent" width="400" />
 
 # Prove-Your-Agent
 
